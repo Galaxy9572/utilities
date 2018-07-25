@@ -1,6 +1,6 @@
-package org.galaxy;
+package com.github;
 
-import org.galaxy.lang.StringUtils;
+import com.github.lang.StringUtils;
 import org.junit.Assert;
 import org.junit.Test;
 

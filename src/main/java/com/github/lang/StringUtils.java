@@ -1,9 +1,9 @@
-package org.galaxy.lang;
+package com.github.lang;
 
 /**
  * String Utilities
  *
- * @author LJY
+ * @author Galaxy9572
  */
 public class StringUtils {
 
